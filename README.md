@@ -8,6 +8,9 @@ This project simulates and analyzes marketing performance data across platforms 
 📈 Interactive Dashboard
 Track CTR, CPA, funnel stages, and ROI over time.
 
+![image](https://github.com/user-attachments/assets/13c32223-21fc-4f35-ab79-13324b36f3e4)
+
+
 🤖 ML-Based Purchase Prediction
 Predict conversion volume using impressions, clicks, signups, and spend with a Linear Regression model in Python.
 
@@ -65,3 +68,5 @@ Load ad_campaign_data.csv in Power BI or Excel
 Run purchase_prediction.py for purchase predictions
 
 Use slicers and filters in Power BI to explore trends by date/channel
+
+
