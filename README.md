@@ -25,6 +25,10 @@ A **data-driven dashboard and ML project** to analyze and optimize paid digital 
   - **Model Performance:**
     - Mean Squared Error (MSE): **711** (predictions deviate by ≈ 26.7 purchases on average)
     - R² Score: **0.7077** (explains 71% of the variation in purchases)
+    - Lasso Regression	0.7199	Best R² — and performs feature selection
+    - Cross-validated R² (Lasso)	0.8285	Model is highly generalizable — strong predictive power
+   
+  Signups are the strongest predictor of purchases. Channels and strategies that optimize for more qualified signups will directly improve conversions. Spend and impressions are less useful once signup quality is accounted for.
 
 - **📊 Channel Comparison & Optimization**
   - Visual insights to identify top-performing platforms.
@@ -56,9 +60,6 @@ A **data-driven dashboard and ML project** to analyze and optimize paid digital 
 - **Click Through Rate (CTR)**
 - **Signup & Purchase Rates**
 - **Cost Per Acquisition (CPA)**
-- **Funnel Drop-off Analysis**
-- **Spend vs. ROI per Channel**
-
 ---
 
 ## 📊 Results
