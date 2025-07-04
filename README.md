@@ -22,6 +22,9 @@ A **data-driven dashboard and ML project** to analyze and optimize paid digital 
 - **🤖 ML-Based Purchase Prediction**
   - Predicts conversion volume using impressions, clicks, signups, and spend.
   - Utilizes a Linear Regression model in Python.
+
+ We started with Linear Regression due to its interpretability and alignment with expected relationships in marketing funnels. It provided a solid baseline (R² ~0.71). Then we explored regularization (Ridge/Lasso) hyperparameter tuning and cross-validation to enhance generalizability.
+ 
   - **Model Performance:**
     - Mean Squared Error (MSE): **711** (predictions deviate by ≈ 26.7 purchases on average)
     - R² Score: **0.7077** (explains 71% of the variation in purchases)
