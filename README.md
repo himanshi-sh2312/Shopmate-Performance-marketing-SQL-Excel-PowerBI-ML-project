@@ -16,7 +16,8 @@ A **data-driven dashboard and ML project** to analyze and optimize paid digital 
 
 - **📈 Interactive Dashboard**
   - Track CTR, CPA, funnel stages, and ROI over time.
-  - ![Dashboard Screenshot](https://github.com/user-attachments/assets/13c32223-21fc-4f35-ab79-13324b36f3e4)
+  - ![image](https://github.com/user-attachments/assets/b0fdcc0d-01c1-473b-b44d-f1dcf91f7476)
+
 
 - **🤖 ML-Based Purchase Prediction**
   - Predicts conversion volume using impressions, clicks, signups, and spend.
